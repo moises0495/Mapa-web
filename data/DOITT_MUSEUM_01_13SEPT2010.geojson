@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Hotel Maya", "TEL": "(01) 993-358-1111", "URL": " ", "ADDRESS1": "Blvd. Adolfo Ruiz Cortines #907, Centro, Villahermosa, Tab.", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9214015, 17.9991839 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hotel Tabasco Inn ", "TEL": "(01) 993-312-2680", "URL": " ", "ADDRESS1": "Av. Jose Pages Llergo 150, Arboledas, Villahermosa, Tab.", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9267664, 17.9999128 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Hotel Hyatt Regency", "TEL": "(01) 993-310-1234", "URL": " ", "ADDRESS1": " Ave. Benito Juarez No. 106, Lindavista, Villahermosa, Tab.", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9398754, 17.9950856 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Hotel Viva", "TEL": "(01) 993-313-6000", "URL": " ", "ADDRESS1": "Adolfo Ruiz Cortines Esq Paseo Tabasco N/A, Linda Vista, Villahermosa, Tab.", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9407659, 17.9962897 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Choco´s hotel", "TEL": "(01) 993-312-9444", "URL": " ", "ADDRESS1": "Centro Delegacion Seis, Villahermosa, Tab", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9143317, 17.9938152 ] } }
+
+]
+}

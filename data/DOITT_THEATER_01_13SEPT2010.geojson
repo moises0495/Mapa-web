@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Restaurante El Edén", "TEL": "(01) 993-310-8130", "URL": " ", "ADDRESS1": "Paseo La Choca 126 Local A, Tabasco 2000, Villahermosa, Tab.", "ADDRESS2": "Calle Pase de la Choca 126 Tabasco 2000 Villahermosa, Tab.", "CITY": "Villahermosa, Tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9531785, 18.0025929 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Restaurante Rodizio", "TEL": "(01) 993-310-8130", "URL": " ", "ADDRESS1": "Paseo La Choca 126, Galaxia/tabasco 2000, Centro, Villahermosa, Tab.", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9532623, 18.0026630 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Restaurante La Calle", "TEL": "(01) 993-317-8020", "URL": " ", "ADDRESS1": "Av. Prol. 27 de Febrero 2809, Tabasco 2000, Villahermosa, Tab", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9518301, 17.9958508 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "El Lienzo Resturante", "TEL": "(01) 993-315-0969", "URL": " ", "ADDRESS1": "Av Samarkanda, Oropeza, Villahermosa, Tab.", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9407342, 17.9995812 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Restaurante Los Cochis", "TEL": " ", "URL": " ", "ADDRESS1": "Circuito Deportivo, Andres Sanchez Magallanes, Villahermosa, Tab.", "ADDRESS2": null, "CITY": "Villahermosa, Tabasco", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -92.9452601, 17.9744299 ] } }
+
+
+
+]
+}
